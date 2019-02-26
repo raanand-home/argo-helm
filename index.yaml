@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   argo:
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.636957334+02:00
+    created: 2019-02-26T11:33:15.5511829+02:00
+    description: A Helm chart for Kubernetes
+    digest: 7250e0c97029550f426562388f7ac1582bc23381530affe396372d63831137cf
+    name: argo
+    urls:
+    - argo-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v1
+    created: 2019-02-26T11:33:15.550064816+02:00
     description: A Helm chart for Kubernetes
     digest: 335feb0656c95ff30f5bcf44a9b481fb2feb9e602c64da082dc8dea40ca0fb08
     name: argo
@@ -10,7 +18,7 @@ entries:
     - argo-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.635255692+02:00
+    created: 2019-02-26T11:33:15.54892916+02:00
     description: A Helm chart for Kubernetes
     digest: d5791be2a2e7971c7df73784602a99a8c2df790ffd22d5df1f5fc8fbf2a62fba
     name: argo
@@ -18,7 +26,7 @@ entries:
     - argo-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.634099532+02:00
+    created: 2019-02-26T11:33:15.54749459+02:00
     description: A Helm chart for Kubernetes
     digest: f88682348f4f2b470f1df840929a6a9ce584d8a499e0c0085a71371de9582275
     name: argo
@@ -26,7 +34,7 @@ entries:
     - argo-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.632954769+02:00
+    created: 2019-02-26T11:33:15.546155487+02:00
     description: A Helm chart for Kubernetes
     digest: eea1d669e5495c611aa6d51965fd8b7d71eac15382ab71ebbde73ca54af5a3fe
     name: argo
@@ -34,7 +42,7 @@ entries:
     - argo-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.631792261+02:00
+    created: 2019-02-26T11:33:15.544956288+02:00
     description: A Helm chart for Kubernetes
     digest: a0255641d6ae6bc533f5594003bf39f911ec35fc1198e6627ca84c93f3fd941f
     name: argo
@@ -42,7 +50,7 @@ entries:
     - argo-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.631098794+02:00
+    created: 2019-02-26T11:33:15.544162597+02:00
     description: A Helm chart for Kubernetes
     digest: f7393a1c9e0a25f19692857a4a9d20ed0199243712cd9d3af2f44995724c1909
     name: argo
@@ -52,16 +60,16 @@ entries:
   argo-cd:
   - apiVersion: v1
     appVersion: "0.11"
-    created: 2019-02-26T11:30:16.637924666+02:00
+    created: 2019-02-26T11:33:15.55316785+02:00
     description: A Helm chart for Argo-CD
-    digest: efcda80d855293f00ab6298a44bb57aa9da7d08e2cc9067dd2ca443a6c73af07
+    digest: a648e0a00e17821ad31f4aadbaf3acd4fb742c1ef8651fc7e666f8766ac9aa2a
     name: argo-cd
     urls:
     - argo-cd-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "0.11"
-    created: 2019-02-26T11:30:16.637592977+02:00
+    created: 2019-02-26T11:33:15.552362589+02:00
     description: A Helm chart for Argo-CD
     digest: 227cc7113081bf8289fb218ee92db43687fe0aa2e5a60a518bed905e05a9d139
     name: argo-cd
@@ -70,15 +78,15 @@ entries:
     version: 0.1.0
   argo-ci:
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.643699854+02:00
+    created: 2019-02-26T11:33:15.558054407+02:00
     description: A Helm chart for Kubernetes
-    digest: 5b30d07e06f53dad2848547bc74d7ae75e20ecc9a210d4746aff06643646a20d
+    digest: 7bd5d5361a47f27c1fd7f5ded346771ef6fd6221968eb4bb7b52da6f20af8592
     name: argo-ci
     urls:
     - argo-ci-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.642194999+02:00
+    created: 2019-02-26T11:33:15.556620386+02:00
     description: A Helm chart for Kubernetes
     digest: 5cb0a6f05a2f9dd416edd8065f0c9c9235b13488fdd6d8625ae0c49a9c1aedb0
     name: argo-ci
@@ -86,7 +94,7 @@ entries:
     - argo-ci-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.639887623+02:00
+    created: 2019-02-26T11:33:15.555102224+02:00
     description: A Helm chart for Kubernetes
     digest: f02829653e882b567af9bc5885f718f67419e0f2029195039cb51b809376ba2f
     name: argo-ci
@@ -94,7 +102,7 @@ entries:
     - argo-ci-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.638889981+02:00
+    created: 2019-02-26T11:33:15.554140992+02:00
     description: A Helm chart for Kubernetes
     digest: 98bc05669752776344c6a01c74e65983bc30f213b08d597aa1ce72923664d931
     name: argo-ci
@@ -104,9 +112,9 @@ entries:
   argo-events:
   - apiVersion: v1
     appVersion: 0.7.0
-    created: 2019-02-26T11:30:16.644672029+02:00
+    created: 2019-02-26T11:33:15.558955511+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
-    digest: fbdba156c712939a01379356e8a7610e441f337c26a739d5b2811365f89f8e03
+    digest: 66f512e2cdb70331ef106e63c1ecc34df3a2797d00527dde05ac44d4d3153c41
     keywords:
     - argo-events
     - sensor-controller
@@ -122,7 +130,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.7.0
-    created: 2019-02-26T11:30:16.644434484+02:00
+    created: 2019-02-26T11:33:15.558738688+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
     digest: c8556f19ded17919959d632a27a6b04b33b533b2b4eb1227e6d728c86c4137c1
     keywords:
@@ -140,7 +148,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-02-26T11:30:16.644088867+02:00
+    created: 2019-02-26T11:33:15.558417883+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
     digest: dd2390a7ec47ad584787d01ff3ce34f868fa1f4acf996dd3dd1eb920abb2fc62
     keywords:
@@ -159,7 +167,7 @@ entries:
     version: 0.2.0
   argo-lite:
   - apiVersion: v1
-    created: 2019-02-26T11:30:16.644883937+02:00
+    created: 2019-02-26T11:33:15.559115432+02:00
     description: Lighweight workflow engine for Kubernetes
     digest: b83cb7173bcd4259723fd592b3438fc31dbc0a9cac44178b6f522bc75f1591f2
     icon: https://raw.githubusercontent.com/argoproj/argo/master/saas/axops/src/ui/src/assets/favicon/favicon-32x32.png
@@ -170,4 +178,4 @@ entries:
     urls:
     - argo-lite-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-26T11:30:16.630253017+02:00
+generated: 2019-02-26T11:33:15.543312573+02:00
