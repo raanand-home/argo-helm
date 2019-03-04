@@ -2,15 +2,15 @@ apiVersion: v1
 entries:
   argo:
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.696572796+02:00
+    created: 2019-03-04T15:52:53.785091018+02:00
     description: A Helm chart for Kubernetes
-    digest: 70d1986ca97b9296c208d7817d9cbab0b6145b8cfca0cc091c1f654e4ab4f081
+    digest: f1576ae20e348f2d034d59761d4d5f61eccde7d720633c0e9abcd36918afdac3
     name: argo
     urls:
     - argo-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.694934694+02:00
+    created: 2019-03-04T15:52:53.784202169+02:00
     description: A Helm chart for Kubernetes
     digest: 7250e0c97029550f426562388f7ac1582bc23381530affe396372d63831137cf
     name: argo
@@ -18,7 +18,7 @@ entries:
     - argo-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.693974327+02:00
+    created: 2019-03-04T15:52:53.783335306+02:00
     description: A Helm chart for Kubernetes
     digest: 335feb0656c95ff30f5bcf44a9b481fb2feb9e602c64da082dc8dea40ca0fb08
     name: argo
@@ -26,7 +26,7 @@ entries:
     - argo-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.693015325+02:00
+    created: 2019-03-04T15:52:53.782056692+02:00
     description: A Helm chart for Kubernetes
     digest: d5791be2a2e7971c7df73784602a99a8c2df790ffd22d5df1f5fc8fbf2a62fba
     name: argo
@@ -34,7 +34,7 @@ entries:
     - argo-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.69182845+02:00
+    created: 2019-03-04T15:52:53.7806411+02:00
     description: A Helm chart for Kubernetes
     digest: f88682348f4f2b470f1df840929a6a9ce584d8a499e0c0085a71371de9582275
     name: argo
@@ -42,7 +42,7 @@ entries:
     - argo-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.69046655+02:00
+    created: 2019-03-04T15:52:53.77947564+02:00
     description: A Helm chart for Kubernetes
     digest: eea1d669e5495c611aa6d51965fd8b7d71eac15382ab71ebbde73ca54af5a3fe
     name: argo
@@ -50,7 +50,7 @@ entries:
     - argo-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.689076157+02:00
+    created: 2019-03-04T15:52:53.778349061+02:00
     description: A Helm chart for Kubernetes
     digest: a0255641d6ae6bc533f5594003bf39f911ec35fc1198e6627ca84c93f3fd941f
     name: argo
@@ -58,7 +58,7 @@ entries:
     - argo-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.688301378+02:00
+    created: 2019-03-04T15:52:53.777631495+02:00
     description: A Helm chart for Kubernetes
     digest: f7393a1c9e0a25f19692857a4a9d20ed0199243712cd9d3af2f44995724c1909
     name: argo
@@ -68,16 +68,16 @@ entries:
   argo-cd:
   - apiVersion: v1
     appVersion: "0.11"
-    created: 2019-02-26T12:02:57.697635684+02:00
+    created: 2019-03-04T15:52:53.786104004+02:00
     description: A Helm chart for Argo-CD
-    digest: 5d46efdd280746dc1dc8ff2bc68d2a44e595abab59a8cd741356ae4e144b7e31
+    digest: 61e76562755788f9aa381ffba0f0e7f553e8df21ed66327939f00d7c0897e57f
     name: argo-cd
     urls:
     - argo-cd-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "0.11"
-    created: 2019-02-26T12:02:57.697285876+02:00
+    created: 2019-03-04T15:52:53.785755093+02:00
     description: A Helm chart for Argo-CD
     digest: 227cc7113081bf8289fb218ee92db43687fe0aa2e5a60a518bed905e05a9d139
     name: argo-cd
@@ -86,15 +86,15 @@ entries:
     version: 0.1.0
   argo-ci:
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.702575327+02:00
+    created: 2019-03-04T15:52:53.791173112+02:00
     description: A Helm chart for Kubernetes
-    digest: 95e96e8a0e418ef7d593aebc126a71a1a3d742f61a3905db1a286e0ffbfe780d
+    digest: 1136db3532611386dbbd73b90c5692c01a5e4b7e4e886b2fd186e3324c51aac8
     name: argo-ci
     urls:
     - argo-ci-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.701154852+02:00
+    created: 2019-03-04T15:52:53.789644219+02:00
     description: A Helm chart for Kubernetes
     digest: 5cb0a6f05a2f9dd416edd8065f0c9c9235b13488fdd6d8625ae0c49a9c1aedb0
     name: argo-ci
@@ -102,7 +102,7 @@ entries:
     - argo-ci-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.699529541+02:00
+    created: 2019-03-04T15:52:53.788023699+02:00
     description: A Helm chart for Kubernetes
     digest: f02829653e882b567af9bc5885f718f67419e0f2029195039cb51b809376ba2f
     name: argo-ci
@@ -110,7 +110,7 @@ entries:
     - argo-ci-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.698588135+02:00
+    created: 2019-03-04T15:52:53.787062628+02:00
     description: A Helm chart for Kubernetes
     digest: 98bc05669752776344c6a01c74e65983bc30f213b08d597aa1ce72923664d931
     name: argo-ci
@@ -120,7 +120,25 @@ entries:
   argo-events:
   - apiVersion: v1
     appVersion: 0.7.0
-    created: 2019-02-26T12:02:57.703505561+02:00
+    created: 2019-03-04T15:52:53.793282063+02:00
+    description: A Helm chart to install Argo-Events in k8s Cluster
+    digest: b64ea9dd0324709c99fb2506b497485c3cbabe531fc7a360d7c63b42997e5cf0
+    keywords:
+    - argo-events
+    - sensor-controller
+    - gateway-controller
+    maintainers:
+    - name: Vaibhav Page
+    - name: Matt Magaldi
+    name: argo-events
+    sources:
+    - https://github.com/argoproj/argo-events
+    urls:
+    - argo-events-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v1
+    appVersion: 0.7.0
+    created: 2019-03-04T15:52:53.792823054+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
     digest: c7a589f8b03e39c0feed9228ad3a3f086e1cd1100a536fcbee39f5b8cf0d9bbb
     keywords:
@@ -138,7 +156,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.7.0
-    created: 2019-02-26T12:02:57.7032877+02:00
+    created: 2019-03-04T15:52:53.792166411+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
     digest: c8556f19ded17919959d632a27a6b04b33b533b2b4eb1227e6d728c86c4137c1
     keywords:
@@ -156,7 +174,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-02-26T12:02:57.702951178+02:00
+    created: 2019-03-04T15:52:53.791568039+02:00
     description: A Helm chart to install Argo-Events in k8s Cluster
     digest: dd2390a7ec47ad584787d01ff3ce34f868fa1f4acf996dd3dd1eb920abb2fc62
     keywords:
@@ -175,7 +193,7 @@ entries:
     version: 0.2.0
   argo-lite:
   - apiVersion: v1
-    created: 2019-02-26T12:02:57.703677657+02:00
+    created: 2019-03-04T15:52:53.793492365+02:00
     description: Lighweight workflow engine for Kubernetes
     digest: b83cb7173bcd4259723fd592b3438fc31dbc0a9cac44178b6f522bc75f1591f2
     icon: https://raw.githubusercontent.com/argoproj/argo/master/saas/axops/src/ui/src/assets/favicon/favicon-32x32.png
@@ -186,4 +204,4 @@ entries:
     urls:
     - argo-lite-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-26T12:02:57.687427117+02:00
+generated: 2019-03-04T15:52:53.776686461+02:00
